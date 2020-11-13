@@ -1,0 +1,36 @@
+[
+    {
+        "title": "M Publicidade",
+        "image": "./img/mpub-logo.jpg",
+        "jobs": [
+            {
+                "role": "Designer Gráfico",
+                "duration": "Fev/2019 - Out/2020" 
+            },
+            {
+                "role": "Estagiário",
+                "duration": "Fev/2018 - Jan/2019" 
+            }
+        ]
+    },
+    {
+        "title": "wcr.design",
+        "image": "./img/mpub-logo.jpg",
+        "jobs": [
+            {
+                "role": "CEO",
+                "duration": "2018 - o momento" 
+            }
+        ]
+    },
+    {
+        "title": "NerdPick",
+        "image": "./img/mpub-logo.jpg",
+        "jobs": [
+            {
+                "role": "CEO",
+                "duration": "Ago/2019 - o momento" 
+            }
+        ]
+    }
+]

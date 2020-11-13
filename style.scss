@@ -100,14 +100,16 @@ body{
         border-bottom: 2px solid #E5E5E5;
         margin-bottom: 50px;
         padding-bottom: 50px;
+        text-align: center;
+        width: 100%;
 
         .logo{
             float: left;
-            width: 150px;
-            margin-right: 25px;
+            width: 100%;
+            margin-bottom: 25px;
 
             img{
-                width: 100%;
+                width: 200px;
                 border-radius: 10px;
             }
         }
@@ -124,6 +126,8 @@ body{
             font-size: 16px;
             line-height: 24px;
             color: #808080;
+            max-width: 600px;
+            margin: 0 auto;
         }
 
         .details{

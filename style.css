@@ -305,6 +305,18 @@ body {
   margin: 0 3px 0 10px;
 }
 
+.curriculo .footer {
+  border-top: 2px solid #E5E5E5;
+  margin-top: 50px;
+  padding-top: 50px;
+  text-align: center;
+}
+
+.curriculo .footer span {
+  color: #bfbfbf;
+  font-size: 16px;
+}
+
 .chip {
   background-color: #F2F2F2;
   color: #7C7C7C;

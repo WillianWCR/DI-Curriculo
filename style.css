@@ -244,9 +244,10 @@ body {
 }
 
 .curriculo .block-list li .details .job {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
   color: #808080;
   font-size: 16px;
+  line-height: 26px;
 }
 
 .curriculo .block-list li .details .job .chip {
@@ -330,4 +331,41 @@ body {
   border-radius: 5px;
   white-space: nowrap;
 }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  .curriculo {
+    padding: 25px;
+  }
+  .curriculo .header .logo {
+    margin-top: 25px;
+  }
+  .curriculo .header h1 {
+    margin-bottom: 25px;
+  }
+  .curriculo .header .details {
+    padding: 0;
+  }
+  .curriculo .content {
+    width: 100%;
+    padding: 0;
+  }
+  .curriculo .content div[class*="col-"] {
+    max-width: 100%;
+    width: 100%;
+    -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+    padding: 0;
+  }
+  .curriculo .content div[class*="col-"]:last-child {
+    border-top: 2px solid #E5E5E5;
+    margin-top: 50px;
+    padding-top: 50px;
+  }
+  .curriculo .footer {
+    margin-bottom: 25px;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
 /*# sourceMappingURL=style.css.map */

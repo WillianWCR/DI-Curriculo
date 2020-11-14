@@ -336,6 +336,7 @@ body {
 @media only screen and (max-width: 600px) {
   .curriculo {
     padding: 25px;
+    margin-top: 25px;
   }
   .curriculo .header .logo {
     margin-top: 25px;
@@ -366,6 +367,4 @@ body {
     margin-bottom: 25px;
   }
 }
-
-/* Small devices (portrait tablets and large phones, 600px and up) */
 /*# sourceMappingURL=style.css.map */
